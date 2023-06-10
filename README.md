@@ -18,7 +18,10 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 
 ## Experiment:
-Screenshot 2023-06-07 190730 Screenshot 2023-06-07 190753
+![image](https://github.com/hashish9275/Muttiple-capacity-with-infinite-capacity/assets/118707521/600eb99b-020f-4cb8-b6d5-073f45c7a03d)
+.
+![image](https://github.com/hashish9275/Muttiple-capacity-with-infinite-capacity/assets/118707521/878bf723-4fa1-44d8-9317-8b2e3e1b2c79)
+
 
 ## PROGRAM:
 ```
@@ -59,6 +62,7 @@ else:
 print("--------------------------------------------------------------")
 ```
 ## OUTPUT :
+![image](https://github.com/hashish9275/Muttiple-capacity-with-infinite-capacity/assets/118707521/91736253-7bfc-408b-b075-7cd50ebd9b9e)
 
 
 ## RESULT :
